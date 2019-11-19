@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EAC3_P2_Villa_Jose</string>
+    <string name="title_activity_maps">EAC3_P2_Villa_Jose</string>
+
+    <string name="location_text">"La meva localització és: \n
+        Latitude: %1$.4f \n
+        Longitude: %2$.4f"</string>
+    <string name="no_location">Sense localització</string>
+</resources>
